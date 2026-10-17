@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+backend/.venv/
+venv/
+.env
+
+# Next.js
+node_modules/
+.next/
+out/
+.vercel/
+
+# Build files
+dist/
+build/
+*.log
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db 
+# Large training dataset (kept locally)
+data/train.csv

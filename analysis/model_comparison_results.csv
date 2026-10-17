@@ -1,0 +1,3 @@
+Model,MAE,RMSE,WAPE_Percent
+Baseline Seasonal Naive,60671.64,91695.52,7.28
+XGBoost,58687.31,76792.63,7.05
